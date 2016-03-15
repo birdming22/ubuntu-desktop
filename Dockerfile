@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM dockerfile/ubuntu
+FROM birdming22/ubuntu
 
 # Install LXDE and VNC server.
 RUN \

@@ -15,7 +15,7 @@ This repository contains **Dockerfile** of [Ubuntu Desktop (LXDE)](http://lxde.o
 
 2. Download [automated build](https://registry.hub.docker.com/u/dockerfile/ubuntu-desktop/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull dockerfile/ubuntu-desktop`
 
-   (alternatively, you can build an image from Dockerfile: `docker build -t="dockerfile/ubuntu-desktop" github.com/dockerfile/ubuntu-desktop`)
+   (alternatively, you can build an image from Dockerfile: `docker build -t="birdming22/ubuntu-desktop" github.com/birdming22/ubuntu-desktop`)
 
 
 ### Usage
